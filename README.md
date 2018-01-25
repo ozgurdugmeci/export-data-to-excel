@@ -1,3 +1,4 @@
 # export-data-to-excel
-Excel1.py this python code  exports data to excel by using win32
-Excel2.py this python code exports data to excel's specific sheet by using pandas.
+excel1.py this python code  exports data to excel by using win32
+excel2.py this python code exports data to excel's specific sheet by using pandas.
+excel3.py this python code changes or gives a value of an excel cell by usin openpyxl
